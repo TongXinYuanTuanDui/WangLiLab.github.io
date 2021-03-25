@@ -39,13 +39,22 @@ Sherry-Xiaoyu joined the SUN YAT-SEN University as a Ph.D student in biomedical 
 
 
 
-<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/jiaojiao.jpg" align="right"><font size="3"><b>Jiaojiao Ji, Graduate Student</b>: <br>
+<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/zhouwei.png" align="right"><font size="3"><b>Wei Zhou,Research Assistant</b>:<br>
+She is a graduate of Applied Statistics， works in the Institute of natural language processing,helps the laboratory to establish the database of Pharmacopoeia. She is a cat slave and loves learning and living,good at math and programming.
+
+<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/jiaojiao.jpg" align="left"><font size="3"><b>Jiaojiao Ji, Graduate Student</b>: <br>
 Ji jiaojiao  joined Wang Li's team in July 2020.She will pursue a master's degree in Biology and Medicine here, and previously earned a bachelor's degree in Bioengineering from Henan University of Traditional Chinese Medicine.She is interested in bioinformatics, molecular biology and evolutionary biology, and liked anything logical.Lego and running are her favorite pastime.</font></p>
 
 
 
-<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/zhouwei.png" align="left"><font size="3"><b>Wei Zhou,Research Assistant</b>:<br>
-She is a graduate of Applied Statistics， works in the Institute of natural language processing,helps the laboratory to establish the database of Pharmacopoeia. She is a cat slave and loves learning and living,good at math and programming.
+<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/zhouwei.png" align="rigt"><font size="3"><b>Lanlan Zang , Guest Graduate Student
+Lanlan Zang joined Ms. Wang Li's team as a master's student in February, 2021. She graduated from Henan Institute of Science and Technology in 2018 with a bachelor's degree in bioengineering. After two years of work, she was admitted to the graduate school through hard work, and she is interested in the biosynthesis of medicinal plants. she enjoys tasting delicious food and jogging.
+
+
+
+<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/zhouwei.png" align="left"><font size="3"><b>Lanlan Zang , Guest Graduate Student
+Lanlan Zang joined Ms. Wang Li's team as a master's student in February, 2021. She graduated from Henan Institute of Science and Technology in 2018 with a bachelor's degree in bioengineering. After two years of work, she was admitted to the graduate school through hard work, and she is interested in the biosynthesis of medicinal plants. she enjoys tasting delicious food and jogging.
+
 
 <br>
 
