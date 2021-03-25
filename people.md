@@ -42,6 +42,8 @@ Sherry-Xiaoyu joined the SUN YAT-SEN University as a Ph.D student in biomedical 
 <p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/zhouwei.png" align="right"><font size="3"><b>Wei Zhou,Research Assistant</b>:<br>
 She is a graduate of Applied Statistics， works in the Institute of natural language processing,helps the laboratory to establish the database of Pharmacopoeia. She is a cat slave and loves learning and living,good at math and programming.
 
+
+
 <p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/jiaojiao.jpg" align="left"><font size="3"><b>Jiaojiao Ji, Graduate Student</b>: <br>
 Ji jiaojiao  joined Wang Li's team in July 2020.She will pursue a master's degree in Biology and Medicine here, and previously earned a bachelor's degree in Bioengineering from Henan University of Traditional Chinese Medicine.She is interested in bioinformatics, molecular biology and evolutionary biology, and liked anything logical.Lego and running are her favorite pastime.</font></p>
 
