@@ -68,14 +68,13 @@ Ji jiaojiao  joined Wang Li's team in July 2020.She will pursue a master's degr
 
 
 
-<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/hanxiaoxu.jpg" align="right"><font size="3"><b>Lanlan Zang , Guest Graduate Student</b>: <br>
-Lanlan Zang joined Ms. Wang Li's team as a master's student in February, 2021. She graduated from Henan Institute of Science and Technology in 2018 with a bachelor's degree in bioengineering. After two years of work, she was admitted to the graduate school through hard work, and she is interested in the biosynthesis of medicinal plants. she enjoys tasting delicious food and jogging.
+<p style="line-height:1.2"><img src="https://TongXinYuanTuanDui/WangLiLab.github.io/picture/hanxiaoxu.jpg" align="right"><font size="3"><b>Lanlan Zang , Guest Graduate Student</b>: <br>Lanlan Zang joined Ms. Wang Li's team as a master's student in February, 2021. She graduated from Henan Institute of Science and Technology in 2018 with a bachelor's degree in bioengineering. After two years of work, she was admitted to the graduate school through hard work, and she is interested in the biosynthesis of medicinal plants. she enjoys tasting delicious food and jogging.
 
 
 
 
 
-<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/zanglanlan.jpg" align="left"><font size="3"><b>Xiaoxu Han, Doctoral student</b>: <br>He jointed the Wang Li’ Lab in the spring of 2021. He obtained master degree in Lanzhou university. He is interested in Chinese herbal plants and biosynthetic pathway of active ingredients to understand the conservation and divergence. Xiaoxu’ additional interests include swimming and jogging.
+<p style="line-height:1.2"><img src="https://TongXinYuanTuanDui/WangLiLab.github.io/picture/zanglanlan.jpg" align="left"><font size="3"><b>Xiaoxu Han, Doctoral student</b>: <br>He jointed the Wang Li’ Lab in the spring of 2021. He obtained master degree in Lanzhou university. He is interested in Chinese herbal plants and biosynthetic pathway of active ingredients to understand the conservation and divergence. Xiaoxu’ additional interests include swimming and jogging.
 
 
 
