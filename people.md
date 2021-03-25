@@ -68,7 +68,7 @@ Ji jiaojiao  joined Wang Li's team in July 2020.She will pursue a master's degr
 
 
 
-<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/hanxiaoxu.jpg" align="rigt"><font size="3"><b>Lanlan Zang , Guest Graduate Student
+<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/hanxiaoxu.jpg" align="right"><font size="3"><b>Lanlan Zang , Guest Graduate Student
 Lanlan Zang joined Ms. Wang Li's team as a master's student in February, 2021. She graduated from Henan Institute of Science and Technology in 2018 with a bachelor's degree in bioengineering. After two years of work, she was admitted to the graduate school through hard work, and she is interested in the biosynthesis of medicinal plants. she enjoys tasting delicious food and jogging.
 
 
