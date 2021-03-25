@@ -1,26 +1,74 @@
 ---
 layout: page
 feature_image: "https://WangLiLab.github.io/picture/nanbanlan.jpg"
-feature_text: |
-  ## <span style="color:white">Journal Club</span>
+
 ---
 
 This is a journal club where we end our week with some libations and erudite discussion. Each Wednesday , the WangLi Lab @ 2:00pm for discussion of articles that attract our fancy. 
 
 Papers by date they are discussed:
 
+
+<b>March 19th, 2021</b><br />
+Rao Fu,<i>et al.</i> 2021<br />
+<a href="https://www.nature.com/articles/s41467-021-21853-6">Versatility in acyltransferase activity completes chicoric acid biosynthesis in purple coneflower</a>
+
+
+<b>March 12th, 2021</b><br />
+Dasen Xie,<i>et al.</i> 2019<br />
+<a href="https://doi.org/10.1038/s41467-019-13185-3">The wax gourd genomes offer insights into the genetic diversity and ancestral cucurbit karyotype</a>
+
+<b>January 29th, 2021</b><br />
+Gai Huang,<i>et al.</i> 2020<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/32284579/">Genome sequence of Gossypium herbaceum and genome updates of Gossypium arboreum and Gossypium hirsutum provide insights into cotton A-genome evolution</a>
+
 <b>January 8th, 2021</b><br />
 Zi-Long Wanga,<i>et al.</i> 2020<br />
 <a href="https://www.pnas.org/content/suppl/2020/11/13/2012745117.DCSupplemental">Dissection of the general two-step di-C-glycosylation
 pathway for the biosynthesis of (iso)schaftosides in higher plants</a>
 
+<b>December 25th, 2020</b><br />
+Zi-Long Wang,<i>et al.</i> 2020<br />
+<a href="https://www.pnas.org/content/suppl/2020/11/13/2012745117.DCSupplemental">Dissection of the general two-step di-C-glycosylation pathway for the biosynthesis of (iso)schaftosides in
+higher plants</a>
+
+<b>December 24th, 2020</b><br />
+David J. Newman,<i>et al.</i> 2020<br />
+<a href="https://pubs.acs.org/doi/10.1021/acs.jnatprod.5b01055">Natural Products as Sources of New Drugs from 1981 to 2014</a>
+
+<b>December 20th, 2020</b><br />
+Jia Zheng,<i>et al.</i> 2020<br />
+<a href="https://science.sciencemag.org/content/370/6521/eabb5962">Selection enhances protein evolvability by increasing
+mutational robustness and foldability</a>
+
+<b>December 18th, 2020</b><br />
+Ping-Li Liu,<i>et al.</i> 2020<br />
+<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02198-7">The Tetracentron genome provides insight into the early evolution of eudicots and the formation of vessel elements</a>
+
+<b>December 14th, 2020</b><br />
+Dexter C. Davis,<i>et al.</i> 2020<br />
+<a href="https://pubs.acs.org/doi/10.1021/jacs.8b07652">Total Synthesis, Biological Evaluation, and Target Identification of Rare Abies Sesquiterpenoids</a>
+
 <b>November 22th, 2020</b><br />
+Hong Wang,<i>et al.</i> 2020<br />
+<a href="https://www.frontiersin.org/articles/10.3389/fpls.2018.00846/full">An Integrative Volatile Terpenoid Profiling and Transcriptomics Analysis for Gene Mining and Functional Characterization of AvBPPS and AvPS Involved in the Monoterpenoid Biosynthesis in Amomum villosum</a>
+
+<b>November18th, 2021</b><br />
+Jong‐Soo Kang,<i>et al.</i> 2020<br />
+<a href="https://onlinelibrary.wiley.com/doi/10.1111/tpj.15028">Distinctive evolutionary pattern of organelle genomes linked to the nuclear genome in Selaginellaceae</a>
+
+<b>November 18th, 2021</b><br />
 Hong Wang,<i>et al.</i> 2020<br />
 <a href="https://www.frontiersin.org/articles/10.3389/fpls.2018.00846/full">An Integrative Volatile Terpenoid Profiling and Transcriptomics Analysis for Gene Mining and Functional Characterization of AvBPPS and AvPS Involved in the Monoterpenoid Biosynthesis in Amomum villosum</a>
 
 <b>November 15th, 2020</b><br />
 Philipp Le,<i>et al.</i> 2020<br />
 <a href="https://www.nature.com/articles/s41557-019-0378-7">Repurposing human kinase inhibitors to create an antibiotic active against drug-resistant Staphylococcus aureus, persisters and biofilms</a>
+
+<b>November 9th, 2021</b><br />
+Philipp Le,<i>et al.</i> 2020<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/31844194/">Repurposing human kinase inhibitors to create an antibiotic active against drug-resistant Staphylococcus aureus, persisters 
+and biofilms</a>
 
 <b>October 23th, 2020</b><br />
 Fu-Sheng Yang,<i>et al.</i> 2020<br />
