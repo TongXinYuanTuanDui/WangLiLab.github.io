@@ -9,6 +9,12 @@ This is a journal club where we end our week with some libations and erudite dis
 Papers by date they are discussed:
 
 
+
+
+<b>April 9th, 2021</b><br />
+Rao Fu,<i>et al.</i> 2019<br />
+<a href="https://www.nature.com/articles/s41477-019-0510-0">COSY catalyses trans–cis isomerization and lactonization in the biosynthesis of coumarins</a>
+
 <b>March 19th, 2021</b><br />
 Rao Fu,<i>et al.</i> 2021<br />
 <a href="https://www.nature.com/articles/s41467-021-21853-6">Versatility in acyltransferase activity completes chicoric acid biosynthesis in purple coneflower</a>
