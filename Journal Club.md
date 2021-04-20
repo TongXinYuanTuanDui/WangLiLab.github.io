@@ -15,10 +15,10 @@ Shaohong Feng,<i>et al.</i> 2020<br />
 <a href="https://doi.org/10.1038/s41586-020-2873-9">Dense sampling of bird diversity increases power of comparative genomics</a>
 
 
-<b>April 16th, 2021</b><br />
-Zhi L,<i>et al.</i> 2020<br />
-<a href="http://www.plantcell.org/">Temporal Regulation of the Metabolome and Proteome in Photosynthetic and Photorespiratory Pathways Contributes to
-Maize Heterosis</a>
+<b>April 23th, 2021</b><br />
+Zhi L,<i>et al.</i> 2021<br />
+<a href="https://www.sciencedirect.com/science/article/pii/S1535947621000396?via%3Dihub">Secretome and Comparative Proteomics of Yersinia
+pestis Identify Two Novel E3 Ubiquitin Ligases That Contribute to Plague Virulence</a>
 
 
 <b>April 16th, 2021</b><br />
